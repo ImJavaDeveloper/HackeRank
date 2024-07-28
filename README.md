@@ -1,2 +1,1 @@
-# HackeRank
-Collection Of Hacker Rank Questions
+# Java8Coding
