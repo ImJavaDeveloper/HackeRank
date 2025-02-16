@@ -33,6 +33,7 @@ class TestConsecutiveProblem {
     public static void main(String[] args) {
 
         System.out.println(ConsecutiveOnesProblem.getCount(439));
+        System.out.println(ConsecutiveOnesProblem.getCount(55));
 
     }
 }
